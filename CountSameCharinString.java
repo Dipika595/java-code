@@ -7,10 +7,10 @@ public class CountSameCharinString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//String s="Java is a programming Language";
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the string: ");
-		String s=sc.nextLine();
+		String s="Java is a programming Language";
+		//Scanner sc=new Scanner(System.in);
+		//System.out.println("Enter the string: ");
+		//String s=sc.nextLine();
 		
 		char c='k';
 		
