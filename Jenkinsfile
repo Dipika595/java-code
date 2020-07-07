@@ -6,9 +6,10 @@ pipeline {
          
           echo "Hello, Pipeline!"
           
-         //git 'https://github.com/Dipika595/java-code.git'
-     
-        java -jar Leapyear.jar
+         bat """ 
+javac Leapyear.java
+java Leapyear 
+ """ 
           
           
        }
